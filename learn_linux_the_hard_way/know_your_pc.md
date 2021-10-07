@@ -111,13 +111,7 @@ lo        Link encap:Local Loopback
           RX bytes:1357766 (1.3 MB)  TX bytes:1357766 (1.3 MB)
 
 wlan0     Link encap:Ethernet  HWaddr 00:24:2b:d2:73:6a  
-          inet addr:192.168.xx.xxx  Bcast:192.168.xx.xxx  Mask:255.255.255.0
-          inet6 addr: fe80::a0c6:54c2:1e36:f592/64 Scope:Link
-          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:28990 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:13838 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:1000 
-          RX bytes:12531888 (12.5 MB)  TX bytes:1722700 (1.7 MB)
+
 ```
 
 ## Log

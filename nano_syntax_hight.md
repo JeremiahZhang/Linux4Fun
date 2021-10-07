@@ -7,7 +7,8 @@ reference: https://www.cnblogs.com/vamei/p/6228499.html
 类似：https://github.com/scopatz/nanorc/issues/238#issue-466363684
 
 ```
-Command "comment" not understood```
+Command "comment" not understood
+```
 
 可能的原因是应用nano版本太低，我的版本是 `GNU nano, version 2.5.3`
 

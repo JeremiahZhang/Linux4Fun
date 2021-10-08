@@ -3,6 +3,7 @@ source: https://github.com/scopatz/nanorc
 reference: https://www.cnblogs.com/vamei/p/6228499.html
 
 按照source连接设置完成之后，使用会出现提醒：
+(ssh https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 类似：https://github.com/scopatz/nanorc/issues/238#issue-466363684
 
